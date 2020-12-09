@@ -33,3 +33,5 @@ This set of Matlab/Octave scripts calculates:
 2. Volumes are assumed to be cubes for the virus encounter and apparent growth rate experiments and spherical in the wall-encounter experiment
 3. Viruses are assumed to be randomly distributed within the volume at any given time
 4. When phytoplankton cells encountered the walls of the container they stick to the walls and eventually die
+
+[![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
