@@ -8,10 +8,10 @@ This set of Matlab/Octave scripts calculates:
 ## Parameters for the calculations
 
 - time_experiment = time interval for the numerical experiment (in seconds)
-- D_vals = values of diffusion coefficient tested (in cm^2 s^{-1})
+- D_vals = values of diffusion coefficient tested (in cm<sup>2</sup> s<sup>-1</sup>)
 - dilutions = dilution levels used (in %)
-- volume = volume of the container where the numerical experiment is set (in cm^3) 
-- conc = concentration of phytoplankton cells (in # cm^{-3})
+- volume = volume of the container where the numerical experiment is set (in cm<sup>3</sup>) 
+- conc = concentration of phytoplankton cells (in # cm<sup>-3</sup>)
 - num_exp = number of replicates for the numerical experiment 
 - hv_ratio = virus:host ratio 
 
